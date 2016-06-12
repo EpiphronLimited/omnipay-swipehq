@@ -12,13 +12,8 @@
 	],
 	"homepage": "https://github.com/AntonyThorpe/omnipay-swipehq.git",
 	"license": "MIT",
-	"autoload": {
-		"psr-4": {
-			"Omnipay\\Swipehq\\": "src/"
-		}
-	},
 	"require": {
-		"omnipay/omnipay": "~1.1"
+		"omnipay/omnipay": "2.*"
 	},
 	"autoload": {
 		"psr-4": {
