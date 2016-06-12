@@ -1,5 +1,5 @@
 {
-	"name": "AntonyThorpe/omnipay-swipehq",
+	"name": "EpiphronLimited/omnipay-swipehq",
 	"type": "library",
 	"description": "Swipehq driver for the Omnipay payment processing library",
 	"keywords": [
@@ -10,7 +10,7 @@
 		"Swipe HQ",
 		"payment"
 	],
-	"homepage": "https://github.com/AntonyThorpe/omnipay-swipehq.git",
+	"homepage": "https://github.com/EpiphronLimited/omnipay-swipehq.git",
 	"license": "MIT",
 	"require": {
 		"omnipay/omnipay": "2.*"
